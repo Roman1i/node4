@@ -1,0 +1,26 @@
+{
+    "savedUsers": [
+        {
+            "id": 1,
+            "name": "Dave",
+            "surname": "Mustaine",
+            "city": "LA",
+            "age": 62
+        },
+        {
+            "id": 2,
+            "name": "Jimmy",
+            "surname": "Jack",
+            "city": "Smolensk",
+            "age": 21
+        },
+        {
+            "id": 6,
+            "name": "Filipp",
+            "surname": "Zaikin",
+            "city": "Uryupinsk",
+            "age": 54
+        }
+    ],
+    "lastId": 6
+}
